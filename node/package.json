@@ -1,7 +1,7 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "En este repositorio voy a subir todos los proyectos donde haga tanto Back como Front",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
